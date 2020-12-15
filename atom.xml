@@ -6,7 +6,7 @@
   <link href="http://cmacckk.github.io/atom.xml" rel="self"/>
   
   <link href="http://cmacckk.github.io/"/>
-  <updated>2020-12-15T11:00:05.340Z</updated>
+  <updated>2020-12-15T11:06:55.001Z</updated>
   <id>http://cmacckk.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>dirscan</title>
+    <title>Python编写一个网站目录扫描工具</title>
     <link href="http://cmacckk.github.io/2020/12/15/dirscan/"/>
     <id>http://cmacckk.github.io/2020/12/15/dirscan/</id>
     <published>2020-12-15T06:18:33.000Z</published>
-    <updated>2020-12-15T11:00:05.340Z</updated>
+    <updated>2020-12-15T11:06:55.001Z</updated>
     
     
       
